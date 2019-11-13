@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fe485a</color>
+    <color name="colorPrimaryDark">#fe485a</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+</resources>
